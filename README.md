@@ -1,5 +1,5 @@
 # jvision
-Fork of benwbooth/tvision (https://github.com/benwbooth/tvision).
+Fork of benwbooth/tvision (https://github.com/benwbooth/tvision, fork of Sergio Sigala's Turbo Vision Port, fixed to build modern autotools).
 
 Intents:
 
